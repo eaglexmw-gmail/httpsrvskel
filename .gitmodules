@@ -1,0 +1,18 @@
+[submodule "backend/3rd/cpp-httplib"]
+	path = backend/3rd/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib
+[submodule "backend/3rd/brynet"]
+	path = backend/3rd/brynet
+	url = https://github.com/IronsDu/brynet
+[submodule "backend/3rd/oatpp"]
+	path = backend/3rd/oatpp
+	url = https://github.com/oatpp/oatpp
+[submodule "backend/3rd/unzip/libzip"]
+	path = backend/3rd/unzip/libzip
+	url = https://github.com/nih-at/libzip
+[submodule "backend/3rd/unzip/zip-unzip"]
+	path = backend/3rd/unzip/zip-unzip
+	url = https://github.com/JHiroGuo/zip-unzip
+[submodule "backend/3rd/unzip/minizip-ng"]
+	path = backend/3rd/unzip/minizip-ng
+	url = https://github.com/zlib-ng/minizip-ng

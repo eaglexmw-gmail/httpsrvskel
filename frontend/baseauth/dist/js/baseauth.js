@@ -1,0 +1,1 @@
+var elementById = document.getElementById("d");
